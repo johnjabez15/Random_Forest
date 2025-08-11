@@ -135,3 +135,15 @@ The application predicts:
 - 🔹 Add data visualization dashboard for loan trends and statistics.  
 - 🔹 Integrate with banking APIs for real-time loan applications.  
 - 🔹 Implement authentication for secure loan approval access.  
+
+
+## Screen Shots:
+
+**Home Page:**
+
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/7db0d68f-eb7b-4d1d-a263-65cf2303e76d" />
+
+**Result Page:**
+
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/c8aa69be-f911-4eb2-a53b-e2c168a44700" />
+
